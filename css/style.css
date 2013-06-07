@@ -1,0 +1,20 @@
+/*
+学発2013 スタイルシート
+作成:twinkfrag
+*/
+
+html {
+  width: 100%;
+  height: 100%;
+}
+h1 {
+  border-bottom: 3px blue solid;
+  text-align: center;
+}
+#content {
+  margin-left: 2%;
+}
+.contents h2{
+  border-left: 5px gray solid;
+  border-bottom: 2px blue solid;
+}
