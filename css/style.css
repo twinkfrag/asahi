@@ -7,14 +7,7 @@ html {
   width: 100%;
   height: 100%;
 }
-h1 {
-  border-bottom: 3px blue solid;
-  text-align: center;
-}
-#content {
-  margin-left: 2%;
-}
-.contents h2{
-  border-left: 5px gray solid;
-  border-bottom: 2px blue solid;
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
 }
