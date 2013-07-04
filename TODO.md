@@ -1,5 +1,5 @@
 # TODO
 
-* index.html
-* topics/index.html
-* contact/index.html
+* アクセスにGoogle map表示
+* ヘッダー部分に学発っぽい画像を
+* 出展の紹介ページ
