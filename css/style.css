@@ -14,3 +14,12 @@ body {
 .map {
   text-align: center;
 }
+
+p#impact {
+  color: red;
+  font-weight: bold;
+}
+
+tr#done {
+  opacity: 0.4;
+}
