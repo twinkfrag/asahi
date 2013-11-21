@@ -15,11 +15,14 @@ body {
   text-align: center;
 }
 
-p#impact {
+p.impact {
   color: red;
   font-weight: bold;
 }
 
-tr#done {
+tr.done {
   opacity: 0.4;
+}
+.content {
+  height: 200px;
 }
